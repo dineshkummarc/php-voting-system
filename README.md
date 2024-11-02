@@ -1,7 +1,6 @@
 # Voting System using PHP/MySQLi with Source Code
 
 ### Description
-
 The Voting System web application using PHP/MySQLi is a project that serves as the automated voting system of an organization or school. This system works like the common manual system of election voting system whereas this system must be populated by the list of the positions, candidates, and voters.
 
 ### Features
